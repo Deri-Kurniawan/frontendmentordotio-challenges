@@ -19,15 +19,17 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 1. Size 1440×800
-   ![](./assets//images/screenshots/1_qr-code-component_1440x800.jpg)
+
+![](./assets//images/screenshots/1_qr-code-component_1440x800.jpg)
 
 2. Size 375x667
-   ![](./assets/images/screenshots/1_qr-code-component_375x667.jpg)
+
+![](./assets/images/screenshots/1_qr-code-component_375x667.jpg)
 
 ### Links
 
-- Solution URL: [Source Code](https://github.com/Deri-Kurniawan/frontendmentordotio-challenges/1_qr-code-component/)
-- Live Site URL: [deri-kurniawan.github.io/frontendmentordotio-challenges/1_qr-code-component/app](https://deri-kurniawan.github.io/frontendmentordotio-challenges/1_qr-code-component/index.html)
+- Solution URL: [Source Code](https://github.com/Deri-Kurniawan/frontendmentordotio-challenges/tree/development/1_qr-code-component/)
+- Live Site URL: [deri-kurniawan.github.io/frontendmentordotio-challenges/1_qr-code-component/](https://deri-kurniawan.github.io/frontendmentordotio-challenges/1_qr-code-component/index.html)
 
 ## My process
 
@@ -76,5 +78,5 @@ Previously I was still a bit difficult in choosing the right class name for each
 
 ## Author
 
-- Website - [Deri Kurniawan](https://deri-kurniawan.github.io/frontendmentordotio-challenges/1_qr-code-component/)
+- Website - [Deri Kurniawan](https://deri.my.id/)
 - Frontend Mentor - [@Deri-Kurniawan](https://www.frontendmentor.io/profile/Deri-Kurniawan)

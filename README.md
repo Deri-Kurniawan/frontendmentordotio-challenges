@@ -8,9 +8,9 @@ Do not use these solutions to cheat. Try to solve the challenges on your own fir
 
 ## Table of Challenges
 
-| No. | Name              | Difficulty                                                   | Solution                                 |
-| --- | ----------------- | ------------------------------------------------------------ | ---------------------------------------- |
-| 1   | QR Code Component | ![](https://img.shields.io/badge/Difficulty-Newbie-blue.svg) | [Source Code](./1_qr-code-component/app) |
+| No. | Name              | Difficulty                                                   |
+| --- | ----------------- | ------------------------------------------------------------ |
+| 1   | QR Code Component | ![](https://img.shields.io/badge/Difficulty-Newbie-blue.svg) |
 
 ## Commit Conventions
 

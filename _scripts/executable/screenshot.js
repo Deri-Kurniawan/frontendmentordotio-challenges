@@ -1,4 +1,3 @@
-const path = require("path");
 const { consola } = require("consola");
 const { captureScreenshot } = require("../lib/screenshot");
 const { rootFullPath } = require("../lib/utils");
@@ -17,7 +16,7 @@ const { rootFullPath } = require("../lib/utils");
 
 // You can easily see id/index of the task by looking at folder names
 // {id/index}_{challange-name} where id/index is the index of the task
-const ONLY_RUN_TASK_LIST_ID = [1];
+const ONLY_RUN_TASK_LIST_ID = [];
 /**
  * List of tasks to take screenshots
  * @type {Array<Object>}
@@ -31,8 +30,8 @@ const ONLY_RUN_TASK_LIST_ID = [1];
 const TASK_LIST = [
   {
     name: "1_qr-code-component",
-    url: rootFullPath("1_qr-code-component/app/index.html"),
-    dest: "1_qr-code-component/app/assets/images/screenshots",
+    url: rootFullPath("1_qr-code-component/index.html"),
+    dest: "1_qr-code-component/assets/images/screenshots",
     sizes: [
       { width: 1440, height: 800 },
       { width: 375, height: 667 },

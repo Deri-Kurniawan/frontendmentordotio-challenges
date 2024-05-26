@@ -1,0 +1,36 @@
+{
+  "name": "frontendmentordotio-challenges",
+  "version": "1.0.0",
+  "description": "A collection of frontendmetor.io solution challanges",
+  "main": "./_scripts/index.js",
+  "scripts": {
+    "ss": "node ./_scripts/executable/screenshot.js",
+    "ss:watch": "nodemon ./_scripts/executable/screenshot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deri-Kurniawan/frontendmentordotio-challenges.git"
+  },
+  "keywords": [
+    "front-end",
+    "frontend",
+    "frontendmentor",
+    "challanges",
+    "source-code",
+    "code-solution",
+    "collection"
+  ],
+  "author": "Deri Kurniawan <deri.netuchi@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deri-Kurniawan/frontendmentordotio-challanges/issues"
+  },
+  "homepage": "https://github.com/Deri-Kurniawan/frontendmentordotio-challanges#readme",
+  "dependencies": {
+    "consola": "^3.2.3",
+    "puppeteer": "^22.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.1"
+  }
+}

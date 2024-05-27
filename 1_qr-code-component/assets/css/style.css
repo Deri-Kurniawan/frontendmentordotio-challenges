@@ -51,8 +51,10 @@ body {
 
 .card__title {
   font-style: normal;
-  font-weight: 700;
+  font-weight: bold;
   font-size: 22px;
+  letter-spacing: 0px;
+
   text-align: center;
   color: var(--color-dark-blue);
   margin: 0;
@@ -60,8 +62,9 @@ body {
 
 .card__description {
   font-style: normal;
-  font-weight: 400;
+  font-weight: normal;
   font-size: 15px;
+  letter-spacing: 0.19px;
   text-align: center;
   margin: 16px 16px 0 16px;
   color: var(--color-grayish-blue);

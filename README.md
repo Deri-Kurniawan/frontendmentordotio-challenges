@@ -8,10 +8,13 @@ Do not use these solutions to cheat. Try to solve the challenges on your own fir
 
 ## Table of Challenges
 
-| No. | Name              | Difficulty                                                   |
-| --- | ----------------- | ------------------------------------------------------------ |
-| 1   | QR Code Component | ![](https://img.shields.io/badge/Difficulty-Newbie-blue.svg) |
-| 2   | FAQ Accordion     | ![](https://img.shields.io/badge/Difficulty-Newbie-blue.svg) |
+Glossary:
+**CUR**: Challenge UI Reference (Did the UI implementation follow the design file, or was it based only on a screenshot?)
+
+| No. | Name              | Difficulty                                                   | CUR?         |
+| --- | ----------------- | ------------------------------------------------------------ | ------------ |
+| 1   | QR Code Component | ![](https://img.shields.io/badge/Difficulty-Newbie-blue.svg) | Figma Design |
+| 2   | FAQ Accordion     | ![](https://img.shields.io/badge/Difficulty-Newbie-blue.svg) | Screenshots  |
 
 ## Commit Conventions
 

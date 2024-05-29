@@ -11,6 +11,7 @@ Do not use these solutions to cheat. Try to solve the challenges on your own fir
 | No. | Name              | Difficulty                                                   |
 | --- | ----------------- | ------------------------------------------------------------ |
 | 1   | QR Code Component | ![](https://img.shields.io/badge/Difficulty-Newbie-blue.svg) |
+| 2   | FAQ Accordion     | ![](https://img.shields.io/badge/Difficulty-Newbie-blue.svg) |
 
 ## Commit Conventions
 

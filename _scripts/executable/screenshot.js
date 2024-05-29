@@ -37,6 +37,15 @@ const TASK_LIST = [
       { width: 375, height: 667 },
     ],
   },
+  {
+    name: "2_faq-accordion",
+    url: rootFullPath("2_faq-accordion/index.html"),
+    dest: "2_faq-accordion/assets/images/screenshots",
+    sizes: [
+      { width: 1440, height: 900 },
+      { width: 375, height: 812 },
+    ],
+  },
 ];
 
 /**
